@@ -1,0 +1,51 @@
+#intro
+{
+padding: 50px; 
+background:linear-gradient(skyblue 0%,grey 100%) 
+}
+#intro img
+{
+    height:300px ;
+    width:275px ;
+    border: 2px ridge  grey; 
+    padding: 2px;
+}
+#bio hr 
+{
+width: 100px;
+height: 8px;
+background-color:grey ;
+}
+#bio p 
+{
+max-width:500px; 
+text-align: justify;
+}
+.menu 
+{
+list-style:none;
+position: fixed;
+top:10px;
+right:15px;
+
+}
+.lists
+{
+float: left;
+margin:5px;
+padding: 5px;
+}
+hr
+{
+    width:100px;
+    height: 10px; 
+    background-color: gray;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+a
+{
+    text-decoration: none;
+}
